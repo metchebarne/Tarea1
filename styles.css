@@ -727,6 +727,13 @@ summary::-webkit-details-marker {
   padding: 12px 20px;
 }
 
+.mensaje-formulario {
+  min-height: 24px;
+  margin: 12px 0 0;
+  color: var(--negro);
+  font-size: 14px;
+}
+
 .enlaces-empresa,
 .enlaces-recursos,
 .marco {
